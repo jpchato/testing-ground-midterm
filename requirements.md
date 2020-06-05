@@ -35,7 +35,7 @@
   * Allow user to search .txt file for vegan cosmetics
   
 ## Data Flow
-* 
+* ![Data Flow](https://ibb.co/7GS5qHZ)
 
  
   
