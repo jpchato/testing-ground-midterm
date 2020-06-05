@@ -62,3 +62,6 @@
 * Save results of personalized searches to a separate .txt file
 ### Acceptance Tests
 * Successfully create new .txt file with personalized search results
+
+## Domain Model
+* https://ibb.co/SsFPVPW
