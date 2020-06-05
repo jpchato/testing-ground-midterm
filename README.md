@@ -53,3 +53,12 @@
 * Successfully retrieve cosmetics
 * Successfully review ingredients and sieve the data
 * Successfully find vegan ingredients 
+
+## Title
+* Save personalized search results to .txt file
+### User Story sentence
+* As a user I want to save the results of my searches to a separate a .txt file
+### Feature Tasks
+* Save results of personalized searches to a separate .txt file
+### Acceptance Tests
+* Successfully create new .txt file with personalized search results
