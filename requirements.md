@@ -14,7 +14,6 @@
   * Search an API for vegan cosmetics
   * Save API results to a .txt file
   * Allow user to search the .txt file for vegan cosmetics
-  * Allow user to save vegan cosmetics to another .txt file
   * Allow user to retrieve those saved cosmetics
 ### OUT - What will your product not do.
 * Search for non-vegan cosmetics
@@ -27,16 +26,17 @@
 ## Stretch
 * What stretch goals are you going to aim for?
   * Search API for vegan prescriptions and save it to a .txt file
+  * Allow user to save personalized search results for vegan cosmetics to another .txt file
   
 ## Functional Requirements
-* List the functionality of your product. This will consist of tasks such as the following:\
+* List the functionality of your product. This will consist of tasks such as the following:
   * Search an API for vegan cosmetics
   * Store vegan cosmetics results in a .txt file
   * Allow user to search .txt file for vegan cosmetics
-  * Allow user to store their saved results into a separate .txt file
   
 ## Data Flow
-  
+* 
+
  
   
  
