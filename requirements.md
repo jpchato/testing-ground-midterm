@@ -37,10 +37,12 @@
 ## Data Flow
 * https://ibb.co/7GS5qHZ
 
- 
-  
- 
-
-An admin can create and delete user accounts
-A user can update their profile information
-A user can search all of the products in the inventory
+## Non-Functional Requirements
+* Usability
+ * System shall be intuitive (Provides instructions for how to search)
+ * System shall be in the english language
+ * Clarity of instructions
+* Maintainability
+ * System shall not create duplicates
+ * System shall update with new API searches
+ * System will update with new scraping
