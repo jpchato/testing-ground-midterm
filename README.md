@@ -4,52 +4,52 @@
 
 ## Title
 * Looking for vegan cosmetics
-## User Story sentence
+### User Story sentence
 * I want to be able to find all vegan cosmetics from WalMart. I want to be able to arrange the results in a specific order and save it in a file.
-## Feature Tasks
+### Feature Tasks
 * Find a working API for WalMart to get cosmetics with ingredients
-## Acceptance Tests
+### Acceptance Tests
 * Successfully retrieve cosmetics
 * Successfully review ingredients and sieve the data
 * Successfully find vegan ingredients 
 
 ## Title
 * Data storage
-## User Story sentence
+### User Story sentence
 * As a user I want to have the data retrieved saved to a file(.txt)
-## Feature Tasks
+### Feature Tasks
 * Traverse the api and save unique vegan cosmetic data 
-## Acceptance Tests
+### Acceptance Tests
 * Successfully find unique vegan cosmetic data
 * Save vegan cosmetic data
 
 ## Title
 * User Input
-## User Story sentence
+### User Story sentence
 * As a user I want to be able to input a cosmetic and get search results (eyeliner, lipstick, foundation, etc.)
-## Feature Tasks
+### Feature Tasks
 * Create an input interface for the user to type in their search query
-## Acceptance Tests
+### Acceptance Tests
 * Have an interface for the user to select products
 
 ## Title
 * Data retrieval
-## User Story sentence
+### User Story sentence
 * As a user I want to retrieve vegan cosmetic data from the storage (.txt file)
-## Feature Tasks
+### Feature Tasks
 * Traverse the text file and extract saved vegan cosmetic data and return it
-## Acceptance Tests
+### Acceptance Tests
 * Successfully traverse the file 
 * Search for a particular cosmetic
 * Pull out the particular cosmetic's information
 
 ## Title
 * Looking for vegan cosmetics in a web page without an API
-## User Story sentence
+### User Story sentence
 * As a user I want to scrape provided urls for vegan cosmetics
-## Feature Tasks
+### Feature Tasks
 * Scrape the provided the web page for vegan cosmetics
-## Acceptance Tests
+### Acceptance Tests
 * Successfully retrieve cosmetics
 * Successfully review ingredients and sieve the data
 * Successfully find vegan ingredients 
